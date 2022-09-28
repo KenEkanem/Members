@@ -21,13 +21,12 @@ Visit and learn about open source [here!](https://www.digitalocean.com/community
 It's time to edit the CONTRIBUTORS.md file
 
 - Click on the CONTRIBUTORS.md file in the repository
-- Click the edit button on the top right corner of the file and add your name to the 
-right location.
+- Click the edit button on the top right corner of the file and add your name to the right location.
 - Example: `[FirstName LastName](https://github.com/your-username)`
-- Add a commit message and click 'Commit Changes'
+- Add a commit message and click 'Commit Changes' E.g 'Added[UserName]'
 - Make a new pull request - the third option after code and issues under the repository name [how to make a pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request)
 - Click 'Make a new pull request' button
-- Make sure you click on your head repository's `compare` dropdown, and change from your 'main' branch to `<new branch name>` 
+- Make sure you click on your head repository's `compare` dropdown, and change from your 'main' branch to your `<new branch name>` 
 - Click the create 'pull request button' Congratulations!
 
 
