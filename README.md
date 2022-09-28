@@ -1,11 +1,14 @@
 # Members
 
+**A github repository to get you started in learning how to make a contribution and create a pull request.**
+
 Use this project to make your first contribution to an open source project on GitHub.
 
 # Make your first pull request by follwing this instructions
 
 ## For Beginners
-Visit and learn about open source [here](https://www.digitalocean.com/community/tutorials/what-is-open-source)
+Create a github account, it's free!      
+Visit and learn about open source [here!](https://www.digitalocean.com/community/tutorials/what-is-open-source)
 
 ## Making your first contributions
 ### To do this on gitHub
@@ -15,10 +18,20 @@ Visit and learn about open source [here](https://www.digitalocean.com/community/
 
 **Note:** **Branch name is usually related to the purpose the branch was created.**
 
-It's time to edit the LIST.md file
-- Click on the list.md file in the repository
-- Click the edit button on the top right corner of the file and add your name to the right location.
+It's time to edit the CONTRIBUTORS.md file
+
+- Click on the CONTRIBUTORS.md file in the repository
+- Click the edit button on the top right corner of the file and add your name to the 
+right location.
+- Example: `[FirstName LastName](https://github.com/your-username)`
 - Add a commit message and click 'Commit Changes'
+- Make a new pull request - the third option after code and issues under the repository name [how to make a pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request)
+- Click 'Make a new pull request' button
+- Make sure you click on your head repository's `compare` dropdown, and change from your 'main' branch to `<new branch name>` 
+- Click the create 'pull request button' Congratulations!
+
+
+
 
 ### To do this on your local machine
 - Open terminal
@@ -36,7 +49,7 @@ cd Members
 ```bash
   git checkout -b <name-of-new-branch>
 ```
-- open the LIST.md file
+- open the CONTRIBUTORS.md file with any text editor
 - Add your name and github URL to the right location
 
 - Example: `[FirstName LastName](https://github.com/your-username)`
@@ -44,10 +57,17 @@ cd Members
  - Stage your changes.
 
 ```bash
-  git add LIST.md
+  git add CONTRIBUTORS.md
 ```
 - Commit the changes with a commit message using this format
 
 ```bash
   git commit -m "Added <YOUR_GITHUB_USERNAME"
 ```
+- Push to a new branch on github
+```bash
+  git push origin <name-of-your-branch>
+```
+- Make a pull request on github see [How to make a pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
+
+
