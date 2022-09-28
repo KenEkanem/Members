@@ -26,7 +26,9 @@ It's time to edit the CONTRIBUTORS.md file
 - Add a commit message and click 'Commit Changes' E.g 'Added[UserName]'
 - Make a new pull request - the third option after code and issues under the repository name [how to make a pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request)
 - Click 'Make a new pull request' button
-- Make sure you click on your head repository's `compare` dropdown, and change from your 'main' branch to your `<new branch name>` 
+
+**While the base and head repository is auto filled (make sure you're comparing the right branch on the base repository and your head repository)**
+- Make sure you click on your head repository's `compare` dropdown, and change from your 'main' branch to your `<new branch name>` if you are not on the right branch 
 - Click the create 'pull request button' Congratulations!
 
 
