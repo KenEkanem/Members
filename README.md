@@ -41,7 +41,7 @@ See [how to make a pull request](https://github.blog/2015-01-21-how-to-write-the
 - Open terminal
 - Install git on your machine if you don't already have it
 - Fork the project on github
-- Clone the project by copying the http or ssh link in your new repository
+- Clone the project by copying the Http in your new repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/Members.git
 ```
